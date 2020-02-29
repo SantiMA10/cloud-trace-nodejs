@@ -1,5 +1,12 @@
 # Changelog
 
+### [4.2.6](https://www.github.com/googleapis/cloud-trace-nodejs/compare/v4.2.5...v4.2.6) (2020-02-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @opencensus/propagation-stackdriver to v0.0.20 ([#1199](https://www.github.com/googleapis/cloud-trace-nodejs/issues/1199)) ([4752aec](https://www.github.com/googleapis/cloud-trace-nodejs/commit/4752aec57bd988286176d5898f45d206b9885a41))
+
 ### [4.2.5](https://www.github.com/googleapis/cloud-trace-nodejs/compare/v4.2.4...v4.2.5) (2020-01-06)
 
 
